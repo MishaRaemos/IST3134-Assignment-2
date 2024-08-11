@@ -1,4 +1,9 @@
 # IST3134-Assignment-2
+#Developed by:
+#LEONG KAH HOE (20028304) 
+#MISHA CAMELIA BINTI RAEMOS RIDZUAN (20040457) 
+#ZAEM HARITH BIN ZAINULHANIF (20067203) 
+
 # Map Reduce Framework Codes and Python (non-mapreduce solution) code
 
 # Brief Documentation
